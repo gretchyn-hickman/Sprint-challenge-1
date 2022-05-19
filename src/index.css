@@ -181,6 +181,9 @@ body {
   margin-top: 16px;
   flex-wrap: wrap;
 }
+.cards {
+  width: 50%;
+}
 @media (min-width: 1200px) {
   .cards-container {
     width: 1200px;
